@@ -1,0 +1,22 @@
+#home{
+    height: 820px;
+}
+.header-text{
+    font-size: 1.7rem;
+}
+#introduction{
+    height: 820px;
+}
+.left img{
+    width: 200px;
+    height: 175px;
+}
+#hobbies{
+    height: 820px;
+}
+#hobbies .text p{
+    inline-size: 1.5rem;
+}
+.three img{
+    inline-size: 1.5rem;
+}
